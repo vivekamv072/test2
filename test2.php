@@ -1,1 +1,4 @@
-<?php echo "tes2";?>
+<?php echo "tes2";
+
+echo "newtest";
+?>
